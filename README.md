@@ -24,5 +24,5 @@ Users can register, log in, and manage their own to-do list.
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/''/''.git
-   cd todo-app
+   git clone https://github.com/'Noahs1ark'/'todo-list-django'.git
+   cd todo-list-django
